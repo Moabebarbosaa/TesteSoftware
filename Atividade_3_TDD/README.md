@@ -4,4 +4,4 @@
 * Obejto de estudo: https://vacinapb.saude.pb.gov.br/
 
 * Resultado:
-* ![alt text](http://url/to/img.png)
+* ![alt text](https://raw.githubusercontent.com/Moabebarbosaa/TesteSoftware/main/Atividade_3_TDD/Image/teste.PNG)
